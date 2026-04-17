@@ -46,12 +46,19 @@ I enjoy building projects from **schematic → simulation → implementation**.
 
 ---
 
-### 🔷🔷 [4-bit alu](https://github.com/Bhavi5017/4-bit alu)
+### 🔷🔷[4-bit ALU](https://github.com/Bhavi5017/4bit-alu-design)
 - Verilog + Cadence design  
 - Arithmetic and logic operations  
 - Includes synthesis and simulation  
 
 ---
+
+## 🧠 Core Focus
+- Digital Design (ALU, MAC)
+- Communication Protocols (I2C)
+- Analog + Mixed Signal Design
+
+  ---
 
 ## 🛠 Tools & Technologies
 

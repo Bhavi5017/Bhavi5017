@@ -39,7 +39,7 @@ I enjoy building projects from **schematic → simulation → implementation**.
 
 ---
 
-### 🔷 🔷 [I2C design protocal](https://github.com/Bhavi5017/I2C design protocal)
+### 🔷 🔷 🔷 [I2C Protocol Design](https://github.com/Bhavi5017/i2c-master-slave)
 - Verilog implementation of I2C Master-Slave  
 - Supports read/write communication  
 - Includes testbench and waveform verification  

@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Bhavitha
 
-<!--
-**Bhavi5017/Bhavi5017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics & Communication Engineering Student
+💡 Interested in VLSI Design (Analog + Digital)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+
+* Verilog HDL
+* Cadence Virtuoso
+* Digital Design
+* Analog Circuit Design
+
+---
+
+## 🚀 Projects
+
+### 🔹 4-bit ALU
+
+* Designed using Verilog & Cadence
+* Includes schematic, testbench, and synthesis
+
+### 🔹 8-bit MAC (Multiply-Accumulate)
+
+* Analog design using Cadence Virtuoso
+* Built using multiplier, adder, register, and mux
+* Includes waveform and simulation results
+
+---
+
+## 🛠 Tools
+
+* Cadence Virtuoso
+* Cadence Genus
+* Spectre Simulator
+
+---
+
+## 📫 Contact
+
+* GitHub: https://github.com/Bhavi5017

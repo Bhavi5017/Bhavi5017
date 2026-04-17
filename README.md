@@ -32,21 +32,21 @@ I enjoy building projects from **schematic → simulation → implementation**.
 
 ## 🚀 Featured Projects
 
-### 🔷 8-bit MAC (Multiply-Accumulate)
+### 🔷 🔷 [8-bit MAC (Multiply-Accumulate)](https://github.com/Bhavi5017/mac-8bit-design)
 - Analog design using Cadence Virtuoso  
 - Built using multiplier, adder, register, and multiplexers  
 - Includes waveform and simulation results  
 
 ---
 
-### 🔷 I2C Protocol Design
+### 🔷 🔷 [I2C design protocal](https://github.com/Bhavi5017/I2C design protocal)
 - Verilog implementation of I2C Master-Slave  
 - Supports read/write communication  
 - Includes testbench and waveform verification  
 
 ---
 
-### 🔷 4-bit ALU
+### 🔷🔷 [4-bit alu](https://github.com/Bhavi5017/4-bit alu)
 - Verilog + Cadence design  
 - Arithmetic and logic operations  
 - Includes synthesis and simulation  
@@ -67,9 +67,10 @@ I enjoy building projects from **schematic → simulation → implementation**.
 
 ---
 
-## 📫 Connect With Me
+## 📬 Connect With Me
 
-* 🔗 GitHub: https://github.com/Bhavi5017
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/Bhavi5017)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-link)
 
 ---
 
